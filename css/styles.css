@@ -210,6 +210,7 @@ button:active {
         text-align: center;
         font-size: 30px;
         justify-content: center;
+        margin-bottom: 10px;
     }
 
     .header> h2 {
